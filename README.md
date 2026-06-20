@@ -6,9 +6,11 @@ A mobile app for creating and running sequential timer routines — so you can s
 
 ## Why I built this
 
-Most timer apps let you run one timer at a time. But a lot of real tasks involve multiple timed steps in a fixed sequence — and there's no good way to save that sequence and run it again later.
+I find cooking stressful and overwhelming. I slow cook most of my meals, and most recipes need more than one timer running at different points — one for the meat, one to remind me to add an ingredient, another to start the rice or prepare a side dish. I cook dinner a couple of times a week, and every time I'd end up juggling multiple separate timers with no labels and no memory of which was which.
 
-Every Sunday I follow the same slow cooker recipe: brown the meat for 10 minutes, add vegetables for 5 minutes, then slow cook for 4 hours. Every time I had to recreate those three timers from scratch. Same problem with my daughter's bedtime routine, and my morning workouts.
+I also have a daughter who needs a 2-minute timer for brushing her teeth — split into sections so she knows when to move to the next part of her mouth.
+
+What I actually needed wasn't more timers. It was a way to build a named sequence for each recipe or routine, save it, and just tap to run it next time. That's what this app does.
 
 This app lets you build a **routine** — a named sequence of timers — and run it with one tap. Each timer counts down independently. When one finishes, you get an audio and haptic alert, then tap "Start Next" when you're ready to move on.
 
